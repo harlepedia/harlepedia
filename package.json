@@ -1,7 +1,7 @@
 {
 		"name": "harlepedia",
 		"version": "1.0.0",
-		"description": "Universal HarleyUniversal knowledge base Knowledge Base",
+		"description": "Universal knowledge base",
 		"repository": {
 				"type": "git",
 				"url": ""
@@ -15,7 +15,6 @@
 		"author": "Todd McAlinden",
 		"license": "MIT",
 		"dependencies": {
-				"swup": "^2.0.5",
 				"whatwg-fetch": "^3.0.0"
 		},
 		"resolutions": {},
@@ -26,7 +25,7 @@
 				"@babel/plugin-syntax-object-rest-spread": "^7.2.0",
 				"@babel/plugin-transform-object-assign": "^7.2.0",
 				"@babel/preset-env": "^7.5.5",
-				"@babel/register": "^7.5.5",
+				"@babel/register": "^7.12.13",
 				"autoprefixer": "^9.6.1",
 				"babel-core": "^7.0.0-bridge.0",
 				"babel-eslint": "^10.0.2",
